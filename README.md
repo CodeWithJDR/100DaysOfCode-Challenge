@@ -9,7 +9,7 @@ Link to work: https://youtu.be/XWo3YUblZxk?si=d1NtdSrXQ9pskIXx
 
 Day 2: January 29, Wednesday 2025
 Today's Progress: I watched two videos that explained how to write HTML in JavaScript and how to use getElementById.
-Thoughts: I know how to use document.write("<h6>Hello World</h6>") but I am really stuck on how to use getElementbyId. I do Have a better understanding of variables and data types now.
+Thoughts: I know how to use document.write("") but I am really stuck on how to use getElementbyId. I do Have a better understanding of variables and data types now.
 Link to work: https://youtu.be/ykoxwrm0Seo?si=6EqMHJacLeYnS3BV / https://youtu.be/SrSBhuuuIsg?si=Tdw3E1UfZAOUMCdk
 
 Day 3: January 30, Thursday 2025
