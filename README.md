@@ -11,3 +11,8 @@ Day 2: January 29, Wednesday 2025
 Today's Progress: I watched two videos that explained how to write HTML in JavaScript and how to use getElementById.
 Thoughts: I know how to use document.write("<h6>Hello World</h6>") but I am really stuck on how to use getElementbyId. I do Have a better understanding of variables and data types now.
 Link to work: https://youtu.be/ykoxwrm0Seo?si=6EqMHJacLeYnS3BV / https://youtu.be/SrSBhuuuIsg?si=Tdw3E1UfZAOUMCdk
+
+Day 3: January 30, Thursday 2025
+Today's Progress: I have a better understanding of how to use getElementById now and how JavaScript can be displayed in different ways.
+Thoughts: I struggled today to get some work done but eventually got to it. I will try to build momentum by doing a little on the days I find difficult to keep going.
+Link to work: https://www.w3schools.com/js/js_output.asp
