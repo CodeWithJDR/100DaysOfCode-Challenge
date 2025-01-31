@@ -16,3 +16,8 @@ Day 3: January 30, Thursday 2025
 Today's Progress: I have a better understanding of how to use getElementById now and how JavaScript can be displayed in different ways.
 Thoughts: I struggled today to get some work done but eventually got to it. I will try to build momentum by doing a little on the days I find difficult to keep going.
 Link to work: https://www.w3schools.com/js/js_output.asp
+
+Day 4: January 31, Friday 2025
+Today's Progress: Read about JavaScript Statements, Syntax and Comments. 
+Thoughts: I found it hard to stay focused today and get started. Still managed to get some work done.
+Link to work: https://www.w3schools.com/js/js_statements.asp / https://www.w3schools.com/js/js_syntax.asp / https://www.w3schools.com/js/js_comments.asp
