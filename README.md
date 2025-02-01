@@ -21,3 +21,8 @@ Day 4: January 31, Friday 2025
 Today's Progress: Read about JavaScript Statements, Syntax and Comments. 
 Thoughts: I found it hard to stay focused today and get started. Still managed to get some work done.
 Link to work: https://www.w3schools.com/js/js_statements.asp / https://www.w3schools.com/js/js_syntax.asp / https://www.w3schools.com/js/js_comments.asp
+
+Day 5: February 1, Saturday 2025
+Today's Progress: I learned how to declare variables and assigning values to them. Also, completed the variables excercise.
+Thoughts: I feel more confident with variables but I want to practice using them in some excercises. 
+Link to work: https://www.w3schools.com/js/js_variables.asp
