@@ -31,3 +31,8 @@ Day 6: February 2, Sunday 2025
 Today's Progress: Started to build a cat website on freecodecamp (25% done). Did some more work on building the cat website (55% done).
 Thoughts: I like this way of learning as I am doing it, as it helps me understand more.
 Link to work: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-12
+
+Day 7: February 3, Monday 2025
+Today's Progress: Completed the building a cat website on freecodecamp.
+Thoughts: I really enjoyed the challenge and I am happy I completed it, looking forward to doing more.
+Link to work: https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app
