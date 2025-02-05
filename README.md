@@ -36,3 +36,6 @@ Day 7: February 3, Monday 2025
 Today's Progress: Completed the building a cat website on freecodecamp.
 Thoughts: I really enjoyed the challenge and I am happy I completed it, looking forward to doing more.
 Link to work: https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app
+
+Day 8: February 4, Tuesday 2025
+Did not code today or anything failed the challenge.
